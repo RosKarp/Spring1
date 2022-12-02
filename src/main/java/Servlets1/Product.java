@@ -1,4 +1,4 @@
-/*package Servlets1;
+package Servlets1;
 
   class Product {
     private final int id;
@@ -20,4 +20,3 @@
             return cost;
         }
 }
-*/

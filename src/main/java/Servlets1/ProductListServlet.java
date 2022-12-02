@@ -1,4 +1,4 @@
-/*package Servlets1;
+package Servlets1;
 
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -35,4 +35,3 @@ public class ProductListServlet extends HttpServlet {
         resp.getWriter().close();
     }
 }
-*/
